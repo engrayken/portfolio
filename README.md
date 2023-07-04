@@ -42,7 +42,8 @@ In all of the places where you're supposed to fill your information you'll find 
         <span>Ayogu Kenneth</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>A Web Developer based in Lahore, Pakistan.</p>
+        <p>
+A Web Developer based in Lagos, Nigeria</p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
     </div>
 </div>
