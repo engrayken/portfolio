@@ -1,14 +1,3 @@
-# Portfolio Template
-
-### A beautiful minimal and accessible portfolio template for Developers ✨.
-
-To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
-
-![Portfolio Gif](/images/portfolio.gif)
-
-## Want to learn How to create a template like this ?
-
-You can watch [this video series](https://www.youtube.com/watch?v=1nchVfpMGSg&list=PLwJBGAxcH7GzdavgKlCACbESzr-40lw3L) on my youtube channel where I re-create this from scratch. 
 
 
 
@@ -30,13 +19,12 @@ You can watch [this video series](https://www.youtube.com/watch?v=1nchVfpMGSg&li
 
 ## Getting Started 🚀
 
-You'll need [Git](https://git-scm.com) to be installed on your computer. 
-```
+``
 # Clone this repository
-$ git clone https://github.com/nisarhassan12/portfolio-template
+$ git clone https://github.com/engrayken/portfolio
 ```
 
-If you don't have Git installed or you don't like using the terminal then you can download the [zip](https://github.com/nisarhassan12/portfolio-template/archive/master.zip) and extract that and open the extracted folder in the code editor of your your choice.
+If you don't have Git installed or you don't like using the terminal then you can download the [zip](https://github.com/engrayken/portfolio/archive/master.zip) and extract that and open the extracted folder in the code editor of your your choice.
 
 ## Editing the Template 🔨
 
@@ -51,7 +39,7 @@ In all of the places where you're supposed to fill your information you'll find 
     <div class="header__text">
         <h1 class="heading-primary">
         <!-- Replace the following name with your name -->
-        <span>Syed Ali Hussnain</span>
+        <span>Ayogu Kenneth</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
         <p>A Web Developer based in Lahore, Pakistan.</p>
@@ -82,7 +70,7 @@ Each div with class `work__box` represents a project, replace the contents of th
         <a href="#" class="link__text">
         Visit Site <span>&rarr;</span>
         </a> 
-        <a href="https://github.com/nisarhassan12/portfolio" target="_blank">
+        <a href="https://github.com/engrayken/portfolio" target="_blank">
         <img src="./images/github.svg" class="work__code" alt="GitHub">
         </a>
     </div>
@@ -137,10 +125,7 @@ For changing the screenshot:
             <div class="about__text">
                 <!-- Replace the below paragraph with info about yourself -->
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos id
-                nostrum illo harum blanditiis, tenetur eum suscipit cupiditate
-                in vel, ex quam quidem quos mollitia labore aut sunt eius
-                ratione molestiae fuga veniam facere similique voluptate.
+              I'm a skilled fullstack web developer, web Security researcher an Electrical Engineer and also a content creator. I have designed various websites, create and Edit various content for satisfied clients. I am interested in getting a remote or physical job in these fields. I have also been able to work in teams as a member and team leader which has improved my team work and leadership skills. You'll often find me outside exploring nature.
                 </p>
                 <!-- Provide a link to your resume -->
                 <a href="#" class="btn">My Resume</a>
@@ -150,7 +135,7 @@ For changing the screenshot:
                 <!-- Add a nice photo of yourself -->
                 <img
                 class="about__photo"
-                src="./images/syed-ali-hussnain.jpg"
+                src="./images/ken.jpg"
                 alt=""
                 />
             </div>
@@ -195,34 +180,28 @@ For changing the screenshot:
         <!-- Update the links to point to your accounts -->
         <ul class="footer__social-links">
             <li class="footer__social-link-item">
-                <a href="https://twitter.com/nisarhassan12/">
+                <a href="https://twitter.com/engrayken/">
                     <img src="./images/twitter.svg" class="footer__social-image" alt="Twitter">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href="https://github.com/nisarhassan12/">
+                <a href="https://github.com/engrayken/">
                     <img src="./images/github.svg" class="footer__social-image" alt="Github">
                 </a>
             </li>
+        
             <li class="footer__social-link-item">
-                <a href="https://codepen.io/nisar_hassan">
-                    <img src="./images/codepen.svg" class="footer__social-image" alt="Codepen">
-                </a>
-            </li>
-            <li class="footer__social-link-item">
-                <a href=https://www.linkedin.com/in/nisar-hassan-naqvi-413466199/">
+                <a href="https://www.linkedin.com/in/engrayken/">
                     <img src="./images/linkedin.svg" class="footer__social-image" alt="Linkedin">
                 </a>
             </li>
         </ul>
 
         <!-- If you give me some credit by keeping the below paragraph, will be huge for me 😊 Thanks. -->
-        <p>
-          &copy; 2020 - Template designed & developed by <a href="https://nisar.dev">Nisar</a>.
-        </p>
+       
         <div class="footer__github-buttons">
           <iframe
-            src="https://ghbtns.com/github-btn.html?user=nisarhassan12&repo=portfolio-template&type=watch&count=true" 
+            src="https://ghbtns.com/github-btn.html?user=engrayken&repo=portfolio&type=watch&count=true" 
             frameborder="0" scrolling="0" width="170" height="20" title="Watch Portfolio Template on GitHub">
           </iframe>
         </div>
